@@ -4,9 +4,9 @@
 ; Skeleton file for Steps 4 & 5
 ;***********************************************************************
 ;
-; Completed by: < your name >
-;               < your class number >
-;               < your lab division >
+; Completed by: Micah Fivecoate
+;               2442-F
+;               
 ;
 ;
 ; Academic Honesty Statement:  In signing this statement, I hereby certify

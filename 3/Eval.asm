@@ -6,7 +6,7 @@
 ;
 ; Completed by: Micah Fivecoate
 ;               2442-F
-;               < your lab division >
+;               
 ;
 ;
 ; Academic Honesty Statement:  In signing this statement, I hereby certify
@@ -76,7 +76,6 @@ main
         jsr     htoa
         jsr     outchar
         
-
 	stop		; use this location to set breakpoint
 
 ;***********************************************************************
@@ -90,7 +89,7 @@ main
 ;        stack.  Note: the expression is defined as Op1 Function Op2.
 ;        Only the CCR is modified (all other registers remain unmodified)
 ;
-; Subroutines called:  ?????
+; Subroutines called:  none
 ;
 ;***********************************************************************
 

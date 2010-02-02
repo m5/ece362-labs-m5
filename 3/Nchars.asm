@@ -6,7 +6,7 @@
 ;
 ; Completed by: Micah Fivecoate
 ;               2442-F
-;               < your lab division >
+;               
 ;
 ;
 ; Academic Honesty Statement:  In signing this statement, I hereby certify
